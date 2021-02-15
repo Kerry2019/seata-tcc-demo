@@ -26,7 +26,7 @@ public interface OrderTccAction {
      * @param orderNo
      * @param userId
      * @param productId
-     * @param count
+     * @param amount
      * @param money
      * @return
      */
