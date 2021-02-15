@@ -4,5 +4,6 @@
     <file url="file://$PROJECT_DIR$/account-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eureka-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/order-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/storage-service/src/main/java" charset="UTF-8" />
   </component>
 </project>
